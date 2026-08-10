@@ -2,4 +2,4 @@
 
 Interactive photography portfolio by Alyssa Wagnitz.
 
-Built from the original photography and visual mockup.
+Built from the original photography.
